@@ -83,8 +83,3 @@ class LocationViewModel : ViewModel() {
     }
 }
 
-
-
-//https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=40.7128,-74.0060&radius=5000&type=hospital&key=AIzaSyB9j-wGrkgjA7teXJGaoxrs5baqgkVnSZg
-
-//https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=43.5183,-79.8774&radius=5000&type=hospital&key=AIzaSyB9j-wGrkgjA7teXJGaoxrs5baqgkVnSZg   //Milton
